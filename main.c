@@ -1,5 +1,9 @@
 /*
 
+Nome do meu usuário no Githug: Alexandre Noguez
+Nome do repositório: AtividadeAlgoritmoLaSalle
+Link do repositório: https://github.com/AlexandreNoguez/AtividadeAlgoritmoLaSalle
+
 preparando o ambiente de desenvolvimento em C no Visual Studio Code
 
 https://www.youtube.com/watch?v=aXVzbzwZuYc
@@ -8,7 +12,7 @@ https://terminaldeinformacao.com/2015/10/08/como-instalar-e-configurar-o-gcc-no-
 
 corrigindo o erro que tive durante a instalação https://www.youtube.com/watch?v=FWC5fVk0QqE
 
-Utilizei o exemplo do ebook na página 34 com algumas alterações
+Utilizei o exemplo do ebook na página 34 do pdf com algumas alterações
 
  */
 
